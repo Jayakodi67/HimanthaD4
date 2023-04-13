@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanthad4&label=Profile%20views&color=0e75b6&style=flat" alt="himanthad4" /> </p>
 
-- 🌱 while( ! (succeed = try () ) ); 
+- 🌱 while ( ! ( succeed = try ( ) ) ); 
 
 - 📫 How to reach me - **himanthad4@gmail.com**
 
