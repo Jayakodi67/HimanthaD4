@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **Python,java**
 
-- 💬 Ask me about **Python,java**
+- 📫 How to reach me - **himanthad4@gmail.com**
 
-- 📫 How to reach me **himanthad4@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- ⚡ I am Funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
