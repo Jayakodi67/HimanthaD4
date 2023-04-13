@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/himantha-hirushan-390122212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himantha hirushan" height="30" width="40" /></a>
 <a href="https://web.facebook.com/himantha.hirushan.71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himantha hirushan" height="30" width="40" /></a>
-<a href="https://instagram.com/caspe__r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caspe__r" height="30" width="40" /></a>
+<a href="https://www.instagram.com/caspe___r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caspe__r" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himanthad4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanthad4" height="30" width="40" /></a>
 </p>
 
