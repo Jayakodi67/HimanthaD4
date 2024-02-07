@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)
+![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)
 <h1 align="center">Hi 👋, I'm Himantha Hirushan</h1>
-<h3 align="center">I am 3rd year student of SLIIT</h3>
+<h3 align="center">I am 4rd year student of SLIIT</h3>
 
 
 
